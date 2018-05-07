@@ -1,0 +1,72 @@
+[{
+  "Flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/exZiFUT_GXScTyr358t7SQ_48x48.png",
+  "TeamName" : "Chennai Super Kings",
+  "Abbr" : "CSK",
+  "TeamCaptain" : "MS Dhoni",
+  "HomeGround" : "MCA Stadium, Pune",
+  "Debut" : 2008,
+  "Title" : 2
+ },
+ {
+  "Flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/turpQqyPRIMvuksLiSDSjQ_48x48.png",
+  "TeamName" : "Rajasthan Royals",
+  "Abbr" : "RR",
+  "TeamCaptain" : "Ajinkya Rahane",
+  "HomeGround" : "Sawai Mansingh Stadium, Jaipur",
+  "Debut" : 2008,
+  "Title" : 1
+ },
+ {
+  "Flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/JTre94vh6WJeLmIL-Dfc1g_48x48.png",
+  "TeamName" : "Mumbai Indians",
+  "Abbr" : "MI",
+  "TeamCaptain" : "Rohit Sharma",
+  "HomeGround" : "Wankhede Stadium, Mumbai",
+  "Debut" : 2008,
+  "Title" : 3
+ },
+ {
+  "Flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/eINSdlYSq1WWmdmYdSnSaA_48x48.png",
+  "TeamName" : "Kings XI Punjab",
+  "Abbr" : "KXIP",
+  "TeamCaptain" : "R Ashwin",
+  "HomeGround" : "PCA Stadium, Mohali",
+  "Debut" : 2008,
+  "Title" : 0
+ },
+ {
+  "Flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/kkwGQB9t8WtGPx9WuiBGOw_48x48.png",
+  "TeamName" : "Kolkata Knight Riders",
+  "Abbr" : "KKR",
+  "TeamCaptain" : "Dinesh Karthik",
+  "HomeGround" : "Eden Gardens, Kolkata",
+  "Debut" : 2008,
+  "Title" : 2
+ },
+ {
+  "Flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/pRvmvUFn4udmQh094gSg1Q_48x48.png",
+  "TeamName" : "Delhi Daredevils",
+  "Abbr" : "DD",
+  "TeamCaptain" : "Gautam Gambhir",
+  "HomeGround" : "Feroz Shah Kotla Ground, Delhi",
+  "Debut" : 2008,
+  "Title" : 0
+ },
+ {
+  "Flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/MxXIt0k-eorEn6yOhD-KBA_48x48.png",
+  "TeamName" : "Royal Challengers Bangalore",
+  "Abbr" : "RCB",
+  "TeamCaptain" : "Virat Kohli",
+  "HomeGround" : "M. Chinnaswamy Stadium, Bangalore",
+  "Debut" : 2008,
+  "Title" : 0
+ },
+ {
+  "Flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/G9q07ZXPVbPkXOagStz3Yw_48x48.png",
+  "TeamName" : "Sunrisers Hyderabad",
+  "Abbr" : "SRH",
+  "TeamCaptain" : "Kane Williamson",
+  "HomeGround" : "Rajiv Gandhi Stadium, Hyderabad",
+  "Debut" : 2013,
+  "Title" : 1
+ }]

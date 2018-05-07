@@ -1,0 +1,33 @@
+[
+  {"Team" : "CSK",
+  "ImgUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/200px-Chennai_Super_Kings_Logo.svg.png",
+  "Players" : ["MS Dhoni(C/WK)","Raina","Jadeja"]},
+ 
+  {"Team" : "RCB",
+  "ImgUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Royal_Challengers_Bangalore_Logo_2016.svg/200px-Royal_Challengers_Bangalore_Logo_2016.svg.png",
+  "Players" : []},
+  
+  {"Team" : "MI",
+  "ImgUrl" : "https://upload.wikimedia.org/wikipedia/pa/d/d5/Mumbai_Indians.png",
+  "Players" : []},
+ 
+  {"Team" : "DD",
+  "ImgUrl" : "https://www.seeklogo.net/wp-content/uploads/2014/01/delhi-daredevils-vector-logo.png",
+  "Players" : []},
+ 
+  {"Team" : "SRH",
+  "ImgUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/200px-Sunrisers_Hyderabad.svg.png",
+  "Players" : []},
+ 
+  {"Team" : "RR",
+  "ImgUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rajasthan_Royals_Logo.svg/200px-Rajasthan_Royals_Logo.svg.png",
+  "Players" : []},
+  
+  {"Team" : "KXIP",
+  "ImgUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Kings_XI_Punjab_logo.svg/200px-Kings_XI_Punjab_logo.svg.png",
+  "Players" : []},
+  
+  {"Team" : "KKR",
+  "ImgUrl" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/200px-Kolkata_Knight_Riders_Logo.svg.png",
+  "Players" : []}
+  ]
