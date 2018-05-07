@@ -1,0 +1,29 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h2>TEAMS</h2>
+  </div>
+  <div class="panel-body">
+    <div class="table-responsive">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+              <th>Team</th>
+              <th>Captain</th>
+              <th>Home Ground</th>
+              <th>Debut</th>
+              <th>Title</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr *ngFor="let team of teams">
+              <td><img src="{{team.Flag}}" style="width:50px ; height:40px"> {{team.TeamName}}  </td>
+              <td>{{team.TeamCaptain}}</td>
+              <td>{{team.HomeGround}}</td>
+              <td>{{team.Debut}}</td>
+              <td><app-title [rating]='team.Title'></app-title></td>
+          </tr>
+      </tbody>
+      </table>
+    </div>
+  </div>
+</div>

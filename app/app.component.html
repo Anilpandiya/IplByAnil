@@ -1,0 +1,16 @@
+<div>
+    <nav class='navbar navbar-default' >
+        <div class='container-fluid' >
+            <a class='navbar-brand' style="color: #ddd">{{pageTitle}}</a>
+            <ul class='nav navbar-nav' id='abc'>
+                <li><a [routerLink]="['/home']" style="color: #ddd">Home</a></li>
+                <li><a [routerLink]="['/teams']" style="color: #ddd">Teams</a></li>
+                <li><a [routerLink]="['/points-table']" style="color: #ddd">Points Table</a></li>
+                <li><a [routerLink]="['/squad']" style="color: #ddd">Squad</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class='container'>
+        <router-outlet></router-outlet>
+    </div>
+ </div>

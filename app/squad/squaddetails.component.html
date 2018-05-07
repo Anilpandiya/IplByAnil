@@ -1,0 +1,14 @@
+<div class="panel panel-primary" *ngIf='squad'>
+  <div class="panel-heading">
+    <h2>{{squad.Team}} : SQUAD</h2>
+  </div>
+  <div class="panel-body">
+      <div class="half">
+        <img src="{{squad.ImgUrl}}">
+      </div>
+      <div class="half">
+        {{squad.Players}}
+      </div>
+  </div>
+  
+</div>

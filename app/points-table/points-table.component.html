@@ -1,0 +1,33 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h2>POINTS TABLE</h2>
+  </div>
+  <div class="panel-body">
+    <div class="table-responsive">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+              <th>Rank</th>
+              <th>Team</th>
+              <th>Match</th>
+              <th>W</th>
+              <th>L</th>
+              <th>NRR</th>
+              <th>Points</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr *ngFor="let point of points">
+              <td>{{point.Rank}}</td>
+              <td><img src="{{point.Flag}}" style="width:50px ; height:40px"> {{point.Team}}  </td>
+              <td>{{point.Match}}</td>
+              <td>{{point.Won}}</td>
+              <td>{{point.Lose}}</td>
+              <td>{{point.NRR}}</td>
+              <td>{{point.points}}</td>
+          </tr>
+      </tbody>
+      </table>
+    </div>
+  </div>
+</div>

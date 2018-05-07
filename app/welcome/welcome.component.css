@@ -1,0 +1,12 @@
+div{
+	text-align : center;
+	font-family: 'lato';
+}
+
+img{
+	height: 400px ;width:300px
+}
+
+.panel-heading{
+  background : linear-gradient(90deg, #19398A 0%, #5191CD 49.83%, #19398A 100%);
+  }

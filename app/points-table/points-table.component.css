@@ -1,0 +1,15 @@
+thead{
+    color : #337Ab7; 
+}
+table{
+  font-family: 'lato'
+}
+th,td{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.panel-heading{
+  background : linear-gradient(90deg, #19398A 0%, #5191CD 49.83%, #19398A 100%);
+  }
